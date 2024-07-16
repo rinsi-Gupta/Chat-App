@@ -1,0 +1,34 @@
+body {
+    background-image: url('https://media.istockphoto.com/id/1371726643/photo/different-notifications-on-violet-background-pop-up-messages-copy-space.webp?b=1&s=170667a&w=0&k=20&c=FhmBYUrsGsR0hYn5zEDa0SkEFfF-rwuUfMEZ4HpX0rE=');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:beige;
+}
+
+h1 {
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 10px; 
+    border-radius: 10px; 
+}
+
+.container{
+    max-width: 470px;
+}
+.chat-container {
+    min-height: 400px;
+    height: 450px;
+    overflow-y: auto;
+}
+
+.text-msg{
+    background-color: #6b3c95;
+    color: white;
+    border-radius: 20px;
+    width: 75%;
+}
+
+.receiver{
+    margin-left: auto;
+    background-color: #817E9F;
+}
